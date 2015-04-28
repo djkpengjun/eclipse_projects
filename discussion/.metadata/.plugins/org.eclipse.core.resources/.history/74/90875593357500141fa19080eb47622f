@@ -1,0 +1,17 @@
+package redis.basic.analytic;
+
+import redis.clients.jedis.Jedis;
+
+public class AnalyticService
+{
+
+  Jedis conn;
+
+  public void main( Jedis conn )
+  {
+    this.conn = conn;
+    String client = "Peter";
+    conn.sadd( "client", client );
+    conn.hincrBy( "stats/client:" + client, field, value )
+  }
+}

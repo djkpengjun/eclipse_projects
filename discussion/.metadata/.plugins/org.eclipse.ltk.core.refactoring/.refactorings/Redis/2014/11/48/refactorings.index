@@ -1,0 +1,45 @@
+1416707322302	Rename type 'jedis'
+1416707349506	Rename package 'redis.peter'
+1416707393273	Move compilation units
+1416707528440	Rename type 'Redis_basic_command'
+1416707555464	Copy compilation unit
+1416707566940	Rename type 'CopyOfcontainers'
+1416707621317	Rename type 'String'
+1416707662610	Rename type 'redis_string'
+1416707780196	Delete element
+1416708282097	Rename local variable 'jedis_server'
+1416708418703	Copy compilation unit
+1416708536132	Rename type 'Hash'
+1416708968488	Copy compilation unit
+1416709117340	Rename type 'ObjectRelationship'
+1416711279139	Infer generic type arguments
+1416711893259	Rename type 'oAuth'
+1416712815610	Rename local variable 'map'
+1416712828687	Rename local variable 'consumeData'
+1416712841084	Rename local variable 'consumeeData'
+1416720783029	Rename local variable 'nonceId'
+1416721687442	Rename local variable 'CONSUMER_PROPERTY_NAME'
+1416721712113	Rename local variable 'CONSUMER_PROPERTY_SECRET'
+1416721734681	Rename local variable 'CONSUMER_PROPERTY_CRAETION_TIMSTAMP'
+1416721747352	Rename local variable 'CONSUMER_PROPERTY_REDIRECT_URL'
+1416721878712	Rename local variable 'consumerId'
+1416722396718	Rename local variable 'lastNonceId'
+1416722406916	Rename local variable 'lastConsumeNonceSet'
+1416723780785	Rename local variable 'NonceSet'
+1416724112243	Rename local variable 'ACCESS_PROPERTY_USER_ID'
+1416724125274	Rename local variable 'ACCESS_PROPERTY_SECRET'
+1416724135691	Rename local variable 'ACCESS_PROPERTY_CRAETION_TIMSTAMP'
+1416725381807	Rename local variable 'preDefinedSecret'
+1416725400696	Rename local variable 'token'
+1416725535313	Rename local variable 'requesetToken'
+1416727476826	Delete element
+1416727488259	Rename package 'peter'
+1416727546696	Rename type 'Redis_Data_Types'
+1416730160959	Rename local variable 'docSets'
+1416733690062	Rename method 'getIdByDocument'
+1416734735192	Copy compilation unit
+1416752263339	Copy compilation unit
+1416752422699	Rename type 'ObjectService'
+1416756201805	Rename type 'PrefixCollectionElements'
+1416756215087	Rename method 'perform'
+1416756529422	Move compilation unit

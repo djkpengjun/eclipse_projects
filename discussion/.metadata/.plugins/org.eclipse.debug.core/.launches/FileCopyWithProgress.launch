@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/Hadoop/main/src/hdfs/FileCopyWithProgress.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<booleanAttribute key="org.eclipse.jdt.launching.ATTR_USE_START_ON_FIRST_THREAD" value="true"/>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="hdfs.FileCopyWithProgress"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="/Users/ppeng/Desktop/eclipse_ws/discussion/Hadoop/input  hdfs://localhost:9000/copyWithProgress.txt"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Hadoop"/>
+</launchConfiguration>

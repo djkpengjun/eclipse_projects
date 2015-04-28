@@ -1,0 +1,20 @@
+package redis.basic.analytic;
+
+import redis.clients.jedis.Jedis;
+
+public class AnalyticService
+{
+
+  Jedis conn;
+
+  public void main( Jedis conn )
+  {
+    this.conn = conn;
+
+    // Search
+    System.out.println( search( "Peter is Becky".split( " " ) ) );
+    System.out.println( search( "Bin is Becky".split( " " ) ) );
+    System.out.println( search( "Feifei is Bin".split( " " ) ) );
+
+  }
+}

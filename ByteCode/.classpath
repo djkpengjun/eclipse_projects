@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/Users/ppeng/Documents/ASM/cglib-nodep-2.1_3.jar" sourcepath="/Users/ppeng/.gradle/caches/modules-2/files-2.1/cglib/cglib-nodep/2.1_3/fd60a4ee07d2bce9fffcb2a3d88bdcdc1011ea5b/cglib-nodep-2.1_3-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/ppeng/Documents/ASM/asm-4.1.jar" sourcepath="/Users/ppeng/Documents/ASM/asm-4.1-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/ppeng/Documents/ASM/hibernate-core-4.1.10.Final.jar" sourcepath="/Users/ppeng/Documents/ASM/hibernate-core-4.1.10.Final-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

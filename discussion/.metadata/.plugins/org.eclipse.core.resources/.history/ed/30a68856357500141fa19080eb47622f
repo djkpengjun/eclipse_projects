@@ -1,0 +1,16 @@
+package redis.basic.analytic;
+
+import redis.clients.jedis.Jedis;
+
+public class AnalyticService
+{
+
+  Jedis conn;
+
+  public void main( Jedis conn )
+  {
+    this.conn = conn;
+
+
+  }
+}

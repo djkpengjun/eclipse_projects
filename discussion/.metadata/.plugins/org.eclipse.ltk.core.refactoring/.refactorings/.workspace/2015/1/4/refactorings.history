@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;Asm&apos; to &apos;CGlib&apos;&#x0A;- Original element: &apos;Asm&apos;&#x0A;- Renamed element: &apos;Asm&apos;&#x0A;- Update references to refactored element" description="Rename Java project &apos;Asm&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=Asm" name="CGlib" references="true" stamp="1421998787184" version="1.0"/>
+</session>

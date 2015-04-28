@@ -1,0 +1,6 @@
+eclipse.m2.WorkspacelifecycleMappingsLocation=/Users/ppeng/Desktop/eclipse_ws/discussion/.metadata/.plugins/org.eclipse.m2e.core/lifecycle-mapping-metadata.xml
+eclipse.m2.defaultRuntime=libexec
+eclipse.m2.runtimes=libexec
+eclipse.m2.runtimesNodes/libexec/location=/usr/local/Cellar/maven/3.2.3/libexec
+eclipse.m2.runtimesNodes/libexec/type=EXTERNAL
+eclipse.preferences.version=1

@@ -1,0 +1,6 @@
+package redis.basic.analytic;
+
+public class AnalyticService
+{
+
+}

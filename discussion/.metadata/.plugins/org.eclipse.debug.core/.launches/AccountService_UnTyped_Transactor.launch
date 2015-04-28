@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/Akka/src/TransferMoney/AccountService_UnTyped_Transactor.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="TransferMoney.AccountService_UnTyped_Transactor"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Akka"/>
+</launchConfiguration>

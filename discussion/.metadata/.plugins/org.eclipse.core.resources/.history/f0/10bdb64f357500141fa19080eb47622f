@@ -1,0 +1,36 @@
+package redis.basic.analytic;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.HashSet;
+import java.util.List;
+import java.util.Set;
+
+import redis.clients.jedis.Jedis;
+
+public class AnalyticService
+{
+
+  Jedis conn;
+
+  public void main( Jedis conn )
+  {
+    this.conn = conn;
+
+    String file0 = "Peter,Becky,Leaf,Bin,is";
+    String file1 = "Becky,Leaf,Bin,Rain,is";
+    String file2 = "Leaf,Bin,Feifei,is";
+
+    String[] files = new String[] { file0, file1, file2 };
+    // Clear cache
+    conn.del( "word:Peter word:Becky word:Bin word:Leaf word:Feifei word:Rain".split( " " ) );
+
+    index( files );
+
+    // Search
+    System.out.println( search( "Peter is Becky".split( " " ) ) );
+    System.out.println( search( "Bin is Becky".split( " " ) ) );
+    System.out.println( search( "Feifei is Bin".split( " " ) ) );
+
+  }
+}
